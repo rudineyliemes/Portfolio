@@ -103,7 +103,7 @@ main #sobre #sobre-conteudo .progresso {
 }
 
 main #sobre #sobre-conteudo .progresso .porcentagem {
-    width: 100%;
+    width: 75%;
     background-color: var(--orange);
     height: 2vh;
     border-radius: 0.2rem;
